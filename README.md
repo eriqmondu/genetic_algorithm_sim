@@ -1,4 +1,4 @@
-# Simulador Algoritmo genético en Elixir
+# Simulador algoritmo genético en Elixir
 
 **TODO: Add description**
 
